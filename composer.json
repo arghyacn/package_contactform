@@ -9,7 +9,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "ArghyaCN\\Contactform\\src\\ContactFormServiceProvider"
+                "arghyacn\\contactform\\ContactFormServiceProvider"
             ]
         }
     },
