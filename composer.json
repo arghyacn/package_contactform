@@ -9,13 +9,13 @@
     "extra": {
         "laravel": {
             "providers": [
-                "CN\\Contactform\\ContactFormServiceProvider"
+                "Arghya\\Contactform\\ContactFormServiceProvider"
             ]
         }
     },
     "autoload": {
         "psr-4": {
-            "CN\\Contactform\\": "src/"
+            "Arghya\\Contactform\\": "src/"
         }
     }
 }

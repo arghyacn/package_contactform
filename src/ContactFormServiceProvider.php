@@ -1,6 +1,5 @@
 <?php
-// cn\contactform\src\ContactFormServiceProvider.php
-namespace cn\contactform;
+namespace Arghya\contactform;
 use Illuminate\Support\ServiceProvider;
     class ContactFormServiceProvider extends ServiceProvider {
 
