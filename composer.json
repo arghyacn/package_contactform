@@ -1,0 +1,21 @@
+{
+    "name": "cn/contactform",
+    "description": "A contact form package for laravel",
+    "authors": [{
+        "name": "Arghya Saha",
+        "email": "arghya@capitalnumbers.com"
+    }],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "CN\\Contactform\\ContactFormServiceProvider"
+            ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "CN\\Contactform\\": "src/"
+        }
+    }
+}
