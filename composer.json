@@ -6,13 +6,6 @@
         "email": "arghya@capitalnumbers.com"
     }],
     "require": {},
-    "extra": {
-        "laravel": {
-            "providers": [
-                "arghyacn\\contactform\\src\\ContactFormServiceProvider"
-            ]
-        }
-    },
     "autoload": {
         "psr-4": {
             "Arghya\\Contactform\\": "src/"
