@@ -1,9 +1,9 @@
 <?php
-    namespace Arghya\Contactform\Http\Controllers;
+    namespace ArghyaCN\Contactform\Http\Controllers;
 
     use App\Http\Controllers\Controller;
     use Illuminate\Http\Request;
-    use Arghya\Contactform\Models\ContactForm;
+    use ArghyaCN\Contactform\Models\ContactForm;
 
     class ContactFormController extends Controller {
 

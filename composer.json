@@ -1,5 +1,5 @@
 {
-    "name": "arghya/contactform",
+    "name": "arghyacn/contactform",
     "description": "A contact form package for laravel",
     "authors": [{
         "name": "Arghya Saha",
@@ -9,7 +9,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Arghya\\Contactform\\ContactFormServiceProvider"
+                "ArghyaCN\\Contactform\\ContactFormServiceProvider"
             ]
         }
     },
